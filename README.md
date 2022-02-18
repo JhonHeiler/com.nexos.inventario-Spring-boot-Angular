@@ -9,13 +9,12 @@ PRUEBA TECNICA:
 
 Empresa: nexos-software.com.co 
 
+
 INTRODUCCIÓN : Este repositorio consiste en mostrar las habilidades técnicas (Springbook-Java) a travéz de la resolución de los problemas planteados .
 
 TECNOLOGÍA Y PATRONES DE DISEÑO EMPLEADO.
 
 .Patron de diseño -> Inyección de dependencia.
-
-.Estandar JWT -> Control de sessione de usuarios
 
 .Rest con el framework -> springbook
 
